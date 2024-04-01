@@ -1,0 +1,26 @@
+.skills-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #FAF0DC;
+}
+
+.skills-section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.skill-item {
+    margin-bottom: 20px;
+}
+
+.skill-item img {
+    max-width: 80%;
+    height: 400px;
+}
+
+.skill-item p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #0B4141;
+
+}

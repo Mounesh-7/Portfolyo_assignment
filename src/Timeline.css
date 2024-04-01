@@ -1,0 +1,40 @@
+.App2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: #c3cdd6;
+}
+
+.education,
+.experience {
+    width: 45%;
+}
+
+.education {
+    border-right: 2px solid #ccc;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.experience {
+    padding-left: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-bottom: 5px;
+    color: #fefefe;
+}
+
+ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}

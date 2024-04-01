@@ -1,0 +1,29 @@
+.App1 {
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #0061b2;
+}
+
+.contact-info {
+    border: 1px solid #0061b2;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.contact-info p {
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: #f8f4f1;
+}
+
+.contact-info strong {
+    font-weight: bold;
+}
+
+#add {
+    color: #fefefe;
+}

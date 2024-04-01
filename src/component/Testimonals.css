@@ -1,0 +1,44 @@
+.App3 {
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.slick-slider {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.slick-slide img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.slick-prev,
+.slick-next {
+    font-size: 24px;
+    color: #333;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+    color: #666;
+}
+
+.slick-dots {
+    bottom: -30px;
+}
+
+.slick-dots li button:before {
+    font-size: 12px;
+    color: #666;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #333;
+}
